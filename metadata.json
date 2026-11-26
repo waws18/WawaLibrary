@@ -1,0 +1,6 @@
+{
+  "name": "Wonu's Library",
+  "description": "Aplikasi perpustakaan digital modern dengan peminjaman buku, manajemen koleksi, sistem pelaporan otomatis, dan dasbor pemantauan transaksi real-time untuk admin dan anggota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
